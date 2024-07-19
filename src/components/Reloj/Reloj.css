@@ -1,0 +1,14 @@
+.clock-container {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .clock-container h2 {
+    margin-bottom: 10px;
+  }
+  
+  .clock-container p {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
